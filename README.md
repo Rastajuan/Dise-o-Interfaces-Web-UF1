@@ -26,4 +26,5 @@ tag). Se valoran también los comentarios.
 El nivel de acabado de la maquetación debe corresponderse con el nivel visto en los materiales
 en vídeo, hasta el tema final 9. Por tanto, además de la maquetación debe incluir también las
 tipografías y los estilos de texto.
-No hay que poner las imágenes en el
+No hay que poner las imágenes en el código web (eso se pedirá en la UF2). Lo mismo con
+vídeos, hovers, u otras interacciones.
